@@ -1,0 +1,5 @@
+{
+	"duration":"5m",
+	"iterations":10000,
+	"vus":1000
+}
